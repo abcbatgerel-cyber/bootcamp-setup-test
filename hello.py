@@ -1,0 +1,1 @@
+print("sain uu! GitHub! minii anhnii commit")
